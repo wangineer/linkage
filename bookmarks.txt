@@ -1,0 +1,18 @@
+Classes
+  - Ansible
+    - https://www.udemy.com/course/ansible-for-network-engineers-cisco-quick-start-gns3-ansible/
+  - Python
+    - https://www.udemy.com/course/python-network-programming-for-network-engineers-python-3/
+
+Books
+
+Links
+ - Ansible
+    - https://docs.ansible.com/ansible/latest/network/getting_started/index.html
+    - https://www.ansible.com/blog/topic/networks
+ - DevNET
+    - https://developer.cisco.com/video/net-prog-basics
+
+
+Github Repos
+ - https://github.com/network-automation
