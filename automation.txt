@@ -6,3 +6,6 @@ Ansible
 Pytyhon
  - Learn Python 3 The Hard Way - https://shop.learncodethehardway.org/access/buy/9/
  - https://automatetheboringstuff.com/
+
+to read
+https://medium.com/swlh/python-and-ansible-to-automate-a-network-security-workflow-28b9a44660c6
