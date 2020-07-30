@@ -1,4 +1,0 @@
-
-Need to Check out
-Ansible
- - https://www.rogerperkin.co.uk/network-automation/ansible/what-are-the-advantages-of-using-ansible-roles/

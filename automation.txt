@@ -1,0 +1,8 @@
+
+Nat-are-the-advantages-of-using-ansible-roles/eed to Check out
+Ansible
+ - https://www.rogerperkin.co.uk/network-automation/ansible/wh
+
+Pytyhon
+ - Learn Python 3 The Hard Way - https://shop.learncodethehardway.org/access/buy/9/
+ - https://automatetheboringstuff.com/
