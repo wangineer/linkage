@@ -16,3 +16,6 @@ Links
 
 Github Repos
  - https://github.com/network-automation
+
+ Cisco Certification Days to expire
+ ce.cisco.com

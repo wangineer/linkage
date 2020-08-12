@@ -3,9 +3,22 @@ Nat-are-the-advantages-of-using-ansible-roles/eed to Check out
 Ansible
  - https://www.rogerperkin.co.uk/network-automation/ansible/wh
 
-Pytyhon
+Python
  - Learn Python 3 The Hard Way - https://shop.learncodethehardway.org/access/buy/9/
  - https://automatetheboringstuff.com/
 
 to read
 https://medium.com/swlh/python-and-ansible-to-automate-a-network-security-workflow-28b9a44660c6
+
+
+How to learn and get started with NetworkAutomation
+ - networktocode video
+ - Dave Bombal - https://www.udemy.com/course/net-devops-cisco-python-automation-netconf-sdn-docker/  - Free
+ - Developer.cisco.com - Devnet
+    - Learning Labs - Tracks
+        - Introduction to DevNet
+        - Network Programmabilty for Network Engineers
+    - Learning Labs - Modules
+        - Intro to Coding Fundamentals - Not a full course but some basics.
+    - Sandbox
+       - devnetsandbox.cisco.com
