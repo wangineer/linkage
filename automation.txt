@@ -13,6 +13,7 @@ https://medium.com/swlh/python-and-ansible-to-automate-a-network-security-workfl
 
 How to learn and get started with NetworkAutomation
  - networktocode video
+    - https://ripe71.ripe.net/archives/video/154/
  - Dave Bombal - https://www.udemy.com/course/net-devops-cisco-python-automation-netconf-sdn-docker/  - Free
  - Developer.cisco.com - Devnet
     - Learning Labs - Tracks
