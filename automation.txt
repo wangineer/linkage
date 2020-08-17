@@ -23,4 +23,19 @@ How to learn and get started with NetworkAutomation
         - Intro to Coding Fundamentals - Not a full course but some basics.
     - Sandbox
        - devnetsandbox.cisco.com
-       - Teset
+
+
+
+Found
+ - https://github.com/networktocode/awesome-network-automation
+ - https://www.juniper.net/documentation/en_US/day-one-books/DO_AJA2ndEd.pdf
+ - https://smile.amazon.com/Network-Programmability-Automation-Next-Generation-Engineer/dp/1491931256/ref=sr_1_5?
+ - dchild=1&keywords=network+automation&qid=1597381972&sr=8-5
+ - https://smile.amazon.com/Ansible-Automating-Configuration-Management-Deployment/dp/1491979801/ref=sr_1_5?dchild=1&keywords=ansible&qid=1597382002&sr=8-5
+ - https://nrelabs.io/
+ - https://developer.cisco.com/site/sandbox/
+
+
+Need to REad
+https://www.packetflow.co.uk/network-automation-101/
+https://www.intentionet.com/blog/a-practical-approach-to-building-a-network-ci-cd-pipeline/?utm_source=blog&utm_medium=twitter&utm_campaign=cicd_1
