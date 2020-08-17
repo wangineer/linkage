@@ -41,3 +41,6 @@ https://www.packetflow.co.uk/network-automation-101/
 https://www.intentionet.com/blog/a-practical-approach-to-building-a-network-ci-cd-pipeline/?utm_source=blog&utm_medium=twitter&utm_campaign=cicd_1
 Profile, test and verify your network is running smoothly with pyATS
       https://youtu.be/LxiBHPMves8
+Introduction to Python Network Programming for Network Architects and Engineers [repeated session]
+    https://youtu.be/8h6QED6FJnA  ended at 17 minutes.
+      there are some slide s available in earlier slides.
